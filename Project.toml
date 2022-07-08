@@ -1,0 +1,4 @@
+name = "TypedIRAnalysis"
+uuid = "5ba4edee-70a4-4750-b5f8-39aff04ff097"
+authors = ["januarydesk <yiyuezhuo@gmail.com>"]
+version = "0.1.0"
